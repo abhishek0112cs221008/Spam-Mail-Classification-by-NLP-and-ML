@@ -53,7 +53,7 @@ The project includes:
 <h2>📁 Project Structure</h2>
     ``` bash
     
-    P3-Spam-Mail-Classification-by-NLP-and-ML/
+    Spam-Mail-Classification-by-NLP-and-ML/
     │
     ├── spam.pkl              # Pre-trained spam classification model
     ├── vec.pkl               # Trained CountVectorizer object for feature extraction
