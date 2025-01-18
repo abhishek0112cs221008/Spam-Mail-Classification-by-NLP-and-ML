@@ -70,5 +70,6 @@ Abhishek Patel | <a href="https://github.com/abhishek0112cs221008">GitHub</a> | 
 
 <h1>My Certificate </h1>
 [ABHISHEK  PATEL_certificate.pdf](https://github.com/user-attachments/files/18464854/ABHISHEK.PATEL_certificate.pdf)
+
 ![image](https://github.com/user-attachments/assets/7b3bd4e1-08ef-4a59-8cdb-968ac8da0e9e)
 
